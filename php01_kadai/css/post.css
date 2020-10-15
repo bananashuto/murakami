@@ -1,0 +1,28 @@
+
+.wrapper{
+    width: 800px;
+    background-color: beige;
+    margin: 0 auto;
+    padding: 60px 0px;
+    text-align: center;
+}
+h2{
+    width: 320px;
+    margin: 0 auto;
+    background-color: darkseagreen;
+}
+
+table{
+    margin: 0 auto;
+    background-color: rgb(238, 238, 238);
+}
+th{
+    padding-top: 20px;
+}
+
+.sousin{
+    width: 320px;
+    text-align: right;
+    margin: 0 auto;
+    /* background-color: cadetblue; */
+}

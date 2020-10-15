@@ -1,0 +1,15 @@
+table{
+    background-color: rgb(240, 240, 240);
+    margin: 0 auto;
+    width: 500px;
+}
+
+h2{
+    text-align: center;
+}
+
+.button{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
